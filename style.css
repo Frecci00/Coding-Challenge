@@ -1,0 +1,98 @@
+.sfondo {
+  background-image: url(sfondo.jpg);
+  background-size: cover;
+  }
+.sfondo2 {
+  background: #000000;
+  opacity: 0.8;
+  border-radius: 15px 15px 15px 15px;
+  padding-left: 500px;
+  padding-right: 500px;
+  padding-bottom: 200px;
+  margin-left: 150px;
+  margin-right: 150px;
+  }
+.logo {
+  width: 300px;
+  display: block;
+  margin:0 auto;
+  padding-top: 100px;
+  }
+.titolo {
+  font-size: 40px;
+  text-align: center;
+  font-family: inherit;
+  color: #00dd00;
+  }
+.bottoni {
+  background-color: #00dd00;
+  text-align: center;
+  padding: 15px;
+  }
+.Monopattino1 {
+  color: white;
+  font-size: 20px;
+  }
+.Monopattino2 {
+  color: white;
+  font-size: 20px;
+  }
+.Monopattino3 {
+  color: white;
+  font-size: 20px;
+  }
+.Monopattino1-2 {
+  color: white;
+  font-size: 15px;
+  }
+.Monopattino2-2 {
+  color: white;
+  font-size: 15px;
+  }
+.Monopattino3-2 {
+  color: white;
+  font-size: 15px;
+  }
+.Monopattino1-3 {
+  color: white;
+  font-size: 15px;
+  }
+.Barra-di-Carica {
+  background-color: #f5b453;
+  height: 25px;
+  padding: 5px;
+  width: 360px;
+  margin: 5px 0;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -moz-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+  -webkit-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+  box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+  }
+.Barra-di-Carica2 {
+  background-color: #1ec31e;
+  height: 25px;
+  padding: 5px;
+  width: 560px;
+  margin: 5px 0;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -moz-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+  -webkit-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+  box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+  }
+.Barra-di-Carica3 {
+  background-color: #be4141;
+  height: 25px;
+  padding: 5px;
+  width: 160px;
+  margin: 5px 0;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  -moz-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+  -webkit-box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+  box-shadow: 0 1px 5px #000 inset, 0 1px 0 #444;
+  }
